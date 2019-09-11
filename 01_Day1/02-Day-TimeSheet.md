@@ -9,4 +9,6 @@
 | 2:35 PM | 5      | Instructor Do: Installing tools                           | 0:05 |       |
 | 2:40 PM | 6      | Instructor Do: Confirm tools Installed                    | 0:30 |       |
 | 3:10 PM | 7      | BREAK                                                     | 0:15 |       |
+| 3:20 PM | 8      | Students Do: Running Scripts                              | 0:15 |       |
+| 3:25 PM | 9      | Students Do: Discuss with Neighbors                       | 0:05 |       |
 | 6:00 PM | 16     | Instructor Do: Demo Homework 1                            | 0:05 |       |
